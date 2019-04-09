@@ -45,6 +45,7 @@ public class Solution {
             }
         }
         return numOfOccurences;
+        //self
 
     }
 
